@@ -14,7 +14,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # بيانات المحرك (API الخاص بك)
-API_KEY = "sk-or-v1-0ed...643" # تم الحفظ
+API_KEY = "sk-or-v1-b3a...15f" # تم الحفظ
 client = OpenAI(api_key=API_KEY, base_url="https://openrouter.ai/api/v1")
 
 # نظام الشخصيات القابل للتعديل
